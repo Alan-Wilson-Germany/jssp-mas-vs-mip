@@ -143,7 +143,7 @@ jssp-mas-vs-mip/
 ## Autores
 
 Proyecto grupal — Grupo 4:
-- **Alan Wilson Germany** — implementación MAS, modelo MIP, benchmarking y análisis de resultados
+- **Alan Wilson Germany**
 - Javiera Montesinos Abarca
 - Maximiliano Pérez Luarte
 
